@@ -17,8 +17,6 @@
   ▼ 2 子传父
   1.子传父过程中 通过 defineEmits('事件名称') 来得到 emit 方法
 
-
-
  -->
 
 <template>
